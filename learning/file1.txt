@@ -1,0 +1,6 @@
+the supported functions are:
+suma
+resta 
+multiplicación
+división
+Documentacion toda en spanglish
